@@ -1,0 +1,20 @@
+%% Compute SIFT features
+% build the dictionary
+% compute sparse frequency vector
+ % compute rootSIFT features
+ 
+ -------------
+ %% Query images
+ % load query image
+  % compute rootSIFT features
+   % Test on an image
+    % visualize
+    ----------------
+harris
+sift
+vocabulary
+quantization
+inverted index
+search
+
+
